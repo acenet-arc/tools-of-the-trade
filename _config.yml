@@ -3,7 +3,8 @@ title:               Tools of the Trade
 tagline:             'Hosted by ACENET'
 description:         'Event description'
 url:                 ''
-baseurl:             '/lvermeyden'
+#baseurl:             '/lvermeyden'
+baseurl:             '/'
 permalink:           pretty
 
 # About/contact
